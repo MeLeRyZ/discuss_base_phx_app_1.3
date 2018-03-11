@@ -24,3 +24,4 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
 # discuss_phoenix_app_by_udemy_tutorial_dev
+# discuss_base_phx_app_1.3
