@@ -1,6 +1,4 @@
-# This app is in process of rewriting to Phoenix1.3 new features
-# If you can do it better - PLEASE, commit!
-#
+# Rewritten Udemy tutorial in Phoenix 1.3
 #
 #
 # Discuss
